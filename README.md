@@ -3,7 +3,7 @@
 
 
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MyoKo125/Rclone-HerokuShell/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MKKABot/MKA-Rclone-Heroku-Shell/tree/master)
 
 ## Installation
 - First get the following prepared:
